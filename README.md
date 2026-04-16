@@ -4,8 +4,6 @@ Development monorepo for **Kiru**.
 
 Kiru is a lightweight rendering library that aims to provide a familiar development experience for those with HTML and Javascript experience.
 
-[![Ask DeepWiki](https://deepwiki.com/badge.svg)](https://deepwiki.com/kirujs/kiru)
-
 ## Structure
 
 - `.github`
@@ -16,10 +14,10 @@ Kiru is a lightweight rendering library that aims to provide a familiar developm
   - Contains end-to-end test suite.
 - `packages`
   - Contains the individual packages managed in the monorepo.
-  - [kiru](https://github.com/kirujs/kiru/blob/main/packages/lib)
-  - [vite-plugin-kiru](https://github.com/kirujs/kiru/blob/main/packages/vite-plugin-kiru)
-  - [devtools-host](https://github.com/kirujs/kiru/blob/main/packages/devtools-host)
-  - [devtools-client](https://github.com/kirujs/kiru/blob/main/packages/devtools-client)
+  - [kiru](https://github.com/tirixa-hub/vscode-hileok-uik/blob/main/packages/lib)
+  - [vite-plugin-kiru](https://github.com/tirixa-hub/vscode-hileok-uik/blob/main/packages/vite-plugin-kiru)
+  - [devtools-host](https://github.com/tirixa-hub/vscode-hileok-uik/blob/main/packages/devtools-host)
+  - [devtools-client](https://github.com/tirixa-hub/vscode-hileok-uik/blob/main/packages/devtools-client)
 - `sandbox`
   - Contains example applications and random tidbits.
 
