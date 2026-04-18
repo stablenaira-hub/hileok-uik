@@ -14,10 +14,10 @@ Kiru is a lightweight rendering library that aims to provide a familiar developm
   - Contains end-to-end test suite.
 - `packages`
   - Contains the individual packages managed in the monorepo.
-  - [kiru](https://github.com/tirixa-hub/vscode-hileok-uik/blob/main/packages/lib)
-  - [vite-plugin-kiru](https://github.com/tirixa-hub/vscode-hileok-uik/blob/main/packages/vite-plugin-kiru)
-  - [devtools-host](https://github.com/tirixa-hub/vscode-hileok-uik/blob/main/packages/devtools-host)
-  - [devtools-client](https://github.com/tirixa-hub/vscode-hileok-uik/blob/main/packages/devtools-client)
+  - [kiru](https://github.com/tirixa-hub/tirixa-hileok-uik/blob/main/packages/lib)
+  - [vite-plugin-kiru](https://github.com/tirixa-hub/tirixa-hileok-uik/blob/main/packages/vite-plugin-kiru)
+  - [devtools-host](https://github.com/tirixa-hub/tirixa-hileok-uik/blob/main/packages/devtools-host)
+  - [devtools-client](https://github.com/tirixa-hub/tirixa-hileok-uik/blob/main/packages/devtools-client)
 - `sandbox`
   - Contains example applications and random tidbits.
 
